@@ -6,8 +6,8 @@
 * Track total income, expense & balance
 * Income vs expense data visualization in Spline chart
 * Expenses data representation in pie chart
-* Add/Update/Delete income & expense categories
-* Add/Update/Delete transaction
+* Manage income & expense categories
+* Manage transaction
 
 
 ## Used Technologies:
