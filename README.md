@@ -7,7 +7,7 @@
 * Income vs expense data visualization in Spline chart
 * Expenses data representation in pie chart
 * Manage income & expense categories
-* Manage transaction
+* Manage transactions
 
 
 ## Used Technologies:
